@@ -3,7 +3,7 @@ export const projects = [
     title: "Full stack reading app",
     description:
       "Using React, Node.js, Express and SQL, this app helps avid readers keep track of what they've read, and what they'd like to read. It was the culmination of my bootcamp learning.",
-    image: "/images/1.png",
+    image: "/images/hackathon.png",
     tags: ["SQL", "Express", "React", "Node"],
     source: "https://github.com/KarenJParker77/React-reading-app",
     visit: "https://google.com",
@@ -13,7 +13,7 @@ export const projects = [
     title: "Vanilla Javascript weather website",
     description:
       "A weather website using Javascript and the OpenWeatherMap API.",
-    image: "/images/weatherapp.jpg",
+    image: "/images/weatherapp.png",
     tags: ["JavaScript", "CSS"],
     source:
       "https://github.com/KarenJParker77/VanillaJavascriptProject/tree/master",
@@ -22,8 +22,9 @@ export const projects = [
   },
   {
     title: "Homage to Starbucks.co.uk",
-    description: "A re-creation of Starbucks.co.uk using just HTML and CSS.",
-    image: "/images/starbucks.jpg",
+    description:
+      "A re-creation of Starbucks.co.uk using just HTML and CSS, and achieved after eight weeks' part-time study.",
+    image: "/images/starbucks.png",
     tags: ["CSS", "HTML"],
     source:
       "https://github.com/KarenJParker77/Homage-Starbucks/tree/main/Homage",
@@ -34,7 +35,7 @@ export const projects = [
     title: "Learning to read app for children",
     description:
       "This project was created by my team of four in a hackathon organised by my coding school.",
-    image: "/images/4.jpg",
+    image: "/images/hackathon.png",
     tags: ["React", "Javascript"],
     source: "https://github.com/KarenJParker77/hackathon-literacy-app",
     visit: "https://magical-mermaid-a6740a.netlify.app/",
