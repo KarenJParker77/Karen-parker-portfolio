@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Using React, Node.js, Express and SQL, this app helps avid readers keep track of what they've read, and what they'd like to read. It was the culmination of my bootcamp learning.",
     image: "/images/hackathon.png",
-    tags: ["SQL", "Express", "React", "Node"],
+    tags: ["SQL", "Express", "React", "Node", "Joi validation"],
     source: "https://github.com/KarenJParker77/React-reading-app",
     visit: "https://google.com",
     id: 0,
@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A weather website using Javascript and the OpenWeatherMap API.",
     image: "/images/weatherapp.png",
-    tags: ["JavaScript", "CSS"],
+    tags: ["JavaScript", "CSS", "Joi validation"],
     source:
       "https://github.com/KarenJParker77/VanillaJavascriptProject/tree/master",
 

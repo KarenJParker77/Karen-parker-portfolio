@@ -15,8 +15,8 @@ const Hero = () => (
         Welcome
       </SectionTitle>
       <SectionText>
-        I'm Karen Parker. I'm soaking up as much tech knowledge as I can while
-        actively seeking my first junior developer role
+        My name's Karen Parker. I'm soaking up as much tech knowledge as I can
+        while actively seeking my first junior developer role.
       </SectionText>
       <Button
         onClick={() => (window.location = "mailto:karen.mccrackle@gmail.com")}

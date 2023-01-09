@@ -21,7 +21,7 @@ const Header = () => (
           style={{
             display: "flex",
             alignItems: "center",
-            color: "white",
+            color: "#ff00ff",
             marginBottom: "40",
           }}
         >
@@ -36,8 +36,8 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <Link href="#technologies">
-          <NavLink>Tech</NavLink>
+        <Link href="#tech">
+          <NavLink>Skills</NavLink>
         </Link>
       </li>
       <li>
@@ -53,10 +53,10 @@ const Header = () => (
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/KarenJParker77">
-        <AiFillGithub size="3rem" />
+        <AiFillGithub size="3rem" style={{ color: "#ff00ff" }} />
       </SocialIcons>
       <SocialIcons href="https://www.linkedin.com/in/karen-parker-152013117/">
-        <AiFillLinkedin size="3rem" />
+        <AiFillLinkedin size="3rem" style={{ color: "#ff00ff" }} />
       </SocialIcons>
     </Div3>
   </Container>

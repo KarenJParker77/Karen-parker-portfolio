@@ -19,7 +19,7 @@ const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Skills</SectionTitle>
     <SectionText>
       During my full-stack bootcamp, I gained experience in a range of front end
       and back end technologies.

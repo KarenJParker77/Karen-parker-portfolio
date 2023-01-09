@@ -19,18 +19,21 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:karen.mccrackle@gmail.com">
+          <LinkTitle style={{ color: "#ff00ff" }}>Email</LinkTitle>
+          <LinkItem
+            href="mailto:karen.mccrackle@gmail.com"
+            style={{ color: "#ff00ff" }}
+          >
             karen.mccrackle@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <SocialIcons href="https://github.com/KarenJParker77">
-          <AiFillGithub size="3rem" />
+          <AiFillGithub size="3rem" style={{ color: "#ff00ff" }} />
         </SocialIcons>
         <SocialIcons href="https://www.linkedin.com/in/karen-parker-152013117/">
-          <AiFillLinkedin size="3rem" />
+          <AiFillLinkedin size="3rem" style={{ color: "#ff00ff" }} />
         </SocialIcons>
       </SocialIconsContainer>
     </FooterWrapper>
