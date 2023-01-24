@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "Full stack reading app",
+    title: "React reading app",
     description:
-      "Using React, Node.js, Express and SQL, this app helps avid readers keep track of what they've read, and what they'd like to read. It was the culmination of my bootcamp learning.",
-    image: "/images/hackathon.png",
-    tags: ["SQL", "Express", "React", "Node", "Joi validation"],
-    source: "https://github.com/KarenJParker77/React-reading-app",
+      "This React app helps avid readers keep track of what they've read, and what they'd like to read.",
+    image: "/images/reading.png",
+    tags: ["React", "Joi validation", "Greensock animation"],
+    source: "https://github.com/KarenJParker77/book-app",
     visit: "https://google.com",
     id: 0,
   },
@@ -46,7 +46,7 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2020,
-    text: "Joined a free six hour Python course (on a whim!)",
+    text: "Joined a free six-hour Python course on a pandemic-induced whim! Interest piqued!",
   },
   {
     year: 2022,
@@ -54,10 +54,10 @@ export const TimeLineData = [
   },
   {
     year: 2022,
-    text: "Joined the Jump Digital School's 30-week part-time software development bootcamp",
+    text: "Joined the Jump Digital School's 30-week part-time software development bootcamp. My mind was blown on a weekly basis, in a very good way.",
   },
   {
     year: 2023,
-    text: "Consolidated my learning and started to look for a new role",
+    text: "Here I am. I'm now consolidating my learning and looking for a new role.",
   },
 ];
