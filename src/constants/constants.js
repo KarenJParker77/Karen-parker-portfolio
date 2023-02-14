@@ -41,6 +41,26 @@ export const projects = [
     visit: "https://magical-mermaid-a6740a.netlify.app/",
     id: 3,
   },
+  {
+    title: "Simpsons quote generator",
+    description:
+      "This React app uses a Simpsons quotes API and enables users to search for, like and delete quotes.",
+    image: "/images/simpsons.png",
+    tags: ["React", "Axios", "React Redux"],
+    source: "https://github.com/KarenJParker77/final-simpsons",
+
+    id: 4,
+  },
+  {
+    title: "MERN workout tracker",
+    description:
+      "I wanted to understand more about React, the backend and authorisation, so I followed an online tutorial to create this workout app.",
+    image: "/images/workout.png",
+    tags: ["React", "MongoDB", "Express"],
+    source: "https://github.com/KarenJParker77/workout-tracker",
+
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [

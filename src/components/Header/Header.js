@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { TfiBriefcase } from "react-icons/tfi";
 
 import {
@@ -42,7 +42,7 @@ const Header = () => (
       </li>
       <li>
         <Link href="#about">
-          <NavLink>About me</NavLink>
+          <NavLink>About</NavLink>
         </Link>
       </li>
       <li>

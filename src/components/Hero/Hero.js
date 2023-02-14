@@ -1,5 +1,5 @@
 import React from "react";
-
+import Graphic from "../Graphic/Graphic";
 import {
   Section,
   SectionText,
@@ -24,6 +24,7 @@ const Hero = () => (
         Email me
       </Button>
     </LeftSection>
+    <Graphic />
   </Section>
 );
 

@@ -1,8 +1,11 @@
 import React from "react";
+import { SvgContainer } from "./GraphicStyles";
+import { Section } from "../../styles/GlobalComponents";
 
 const Graphic = () => (
-  <div>
+  <Section row nopadding>
     {/* <img src="/images/coder.png"></img> */}
+    {/* <SvgContainer> */}
     <svg
       xmlns="http://www.w3.org/2000/svg"
       data-name="Layer 1"
@@ -454,7 +457,8 @@ const Graphic = () => (
         fill="#ff00ff"
       />
     </svg>
-  </div>
+    {/* </SvgContainer> */}
+  </Section>
 );
 
 export default Graphic;
