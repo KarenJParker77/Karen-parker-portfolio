@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/reading.png",
     tags: ["React", "Joi validation", "Greensock animation"],
     source: "https://github.com/KarenJParker77/book-app",
-    visit: "https://google.com",
+    visit: "https://radiant-starship-75064d.netlify.app/",
     id: 0,
   },
   {
@@ -17,7 +17,7 @@ export const projects = [
     tags: ["JavaScript", "CSS", "Joi validation"],
     source:
       "https://github.com/KarenJParker77/VanillaJavascriptProject/tree/master",
-
+    visit: "https://eloquent-seahorse-20565a.netlify.app/",
     id: 1,
   },
   {
@@ -48,6 +48,7 @@ export const projects = [
     image: "/images/simpsons.png",
     tags: ["React", "Axios", "React Redux"],
     source: "https://github.com/KarenJParker77/final-simpsons",
+    visit: "https://gentle-sunflower-beb8a3.netlify.app/",
 
     id: 4,
   },
