@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Smart shopping app",
+    description:
+      "Created with my cohort during my participation in The Collab Lab, this is a smart shopping app using React and Firestore",
+    image: "/images/shopping.png",
+    tags: ["React", "Firebase", "Github"],
+    source: "https://github.com/the-collab-lab/tcl-59-smart-shopping-list",
+    visit: "https://tcl-59-smart-shopping-list.web.app/",
+    id: 6,
+  },
+  {
     title: "React reading app",
     description:
       "This React app helps avid readers keep track of what they've read, and what they'd like to read.",
@@ -55,11 +65,11 @@ export const projects = [
   {
     title: "MERN workout tracker",
     description:
-      "I wanted to understand more about React, the backend and authorisation, so I followed an online tutorial to create this workout app.",
+      "I wanted to understand more about React, databases, the backend and authorisation, so I followed an online tutorial to create this workout app and deployed it using Render.",
     image: "/images/workout.png",
     tags: ["React", "MongoDB", "Express"],
-    source: "https://github.com/KarenJParker77/workout-tracker",
-
+    source: "https://github.com/KarenJParker77/workout-frontend",
+    visit: "https://workout-app-cqdx.onrender.com",
     id: 5,
   },
 ];
